@@ -56,9 +56,9 @@ Full metrics, plots, and the reasoning behind each cleaning decision are documen
 
 ```
 .
-├── DIQ_prj.pdf          # Full project report
-├── notebook/             # Colab/Jupyter notebook with the implemented pipeline
-├── data/                 # Raw and cleaned dataset (if included)
+├── DIQ_prj.pdf               # Full project report
+├── Colab Notebook            # Colab/Jupyter notebook with the implemented pipeline
+├── data/                     # Raw and cleaned dataset (if included)
 └── README.md
 ```
 
